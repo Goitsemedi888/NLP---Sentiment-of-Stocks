@@ -1,5 +1,16 @@
-# NLP---Sentiment-of-Stocks
- Natural Language Processing $entiment of Stocks
+# NLP--- From Tweets to Trades: AI-Powered Bitcoin Sentiment & Market Timing" "₿"
+
+## Motivation & Industry Relevance
+
+As large financial institutions — from JPMorgan to Morgan Stanley — increasingly embrace crypto services (custody, tokenization, stablecoins, etc.), there’s growing demand for tools that:
+
+- Assess sentiment and detect whether it *leads* or *lags* market moves  
+- Combine social data + financial signals into quantifiable strategies  
+- Operate with reliable pipelines, robust risk metrics, backtesting over varied market regimes  
+
+This project is built with that real-world imperative in mind. It is not just an academic exercise — it's engineered toward deployment: modular, tested, and designed with execution & risk in mind.
+
+Natural Language Processing $entiment of Stocks
 
 ##Introduction
 
