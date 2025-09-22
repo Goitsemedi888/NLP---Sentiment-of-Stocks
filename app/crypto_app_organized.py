@@ -2516,7 +2516,7 @@ Outperformance: {outperformance:.2f}%
     <div style="text-align: center; padding: 20px; color: #f1f5f9;">
         <p>🤖 Powered by Transformer AI Models | 📊 Real-time Market Data | 🎯 Advanced Analytics</p>
         <p style="font-size: 14px; opacity: 0.8;">
-            Built with Streamlit, PyTorch, HuggingFace Transformers, and YFinance
+            Built with Streamlit, PyTorch, HuggingFace Transformers, and YFinance by Lynn MN Nyazika
         </p>
     </div>
     """, unsafe_allow_html=True)
